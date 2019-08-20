@@ -1,18 +1,16 @@
-# Nodebot Workshop
+# Taller de Nodebots
 
 [![Build Status](https://travis-ci.org/tableflip/nodebot-workshop.svg?branch=master)](https://travis-ci.org/tableflip/nodebot-workshop) [![Dependency Status](https://david-dm.org/tableflip/nodebot-workshop.svg)](https://david-dm.org/tableflip/nodebot-workshop) [![Gitter](https://badges.gitter.im/join_chat.svg)](https://gitter.im/tableflip/nodebot-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <img src="http://nodebots.io/img/nodebot.png" width="175">
 
-A [nodeschool][1] workshop that will make your Arduino alive with [rwaldron/johnny-five][2]
-
-No hardware required!
+Un taller de [nodeschool][1] que pondra tu Arduino en marcha con [rwaldron/johnny-five][2]
 
 ```shell
 # Install
-npm install -g nodebot-workshop
+npm install -g taller-nodebots
 # Run
-nodebot-workshop
+taller-nodebots
 ```
 
 <img src="https://raw.githubusercontent.com/tableflip/nodebot-workshop/master/screenshot.png" width="560" alt="Nodebot workshop menu">
