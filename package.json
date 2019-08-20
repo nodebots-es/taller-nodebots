@@ -1,7 +1,7 @@
 {
-  "name": "nodebot-workshop",
-  "version": "3.2.1",
-  "description": "A nodeschool workshop that will make your Ardunio alive with johnny-five",
+  "name": "taller-nodebots",
+  "version": "1.0.1",
+  "description": "Un taller de nodebots que pondrá tu ardunio en marcha con johnny-five",
   "main": "nodebot-workshop.js",
   "scripts": {
     "start": "./nodebot-workshop.js",
@@ -20,9 +20,9 @@
     "johnny-five",
     "nodebot",
     "arduino",
-    "workshop",
-    "workshopper",
-    "life is not a malfuction"
+    "taller",
+    "nodebots",
+    "robots"
   ],
   "contributors": [
     "olizilla",
