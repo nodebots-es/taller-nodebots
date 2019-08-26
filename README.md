@@ -4,7 +4,7 @@
 
 <img src="http://nodebots.io/img/nodebot.png" width="175">
 
-Un taller de [nodeschool][1] que pondra tu Arduino en marcha con [rwaldron/johnny-five][2]
+Un taller de [nodeschool][1] para poner tu Arduino en marcha con [rwaldron/johnny-five][2]
 
 ```shell
 # Install
