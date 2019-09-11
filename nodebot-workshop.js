@@ -2,7 +2,7 @@
 
 const workshop = require('workshopper-adventure')({
     appDir    : __dirname
-  , languages : ['en', 'ja', 'fr']
+  , languages : ['en', 'fr', 'es']
   , menu      : {fg: 'black', bg: 220}
   , header    : require('workshopper-adventure/default/header')
   , footer    : require('workshopper-adventure/default/footer')
