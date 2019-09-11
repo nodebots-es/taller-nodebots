@@ -20,7 +20,7 @@ Conecta un Arduino al USB, y veras como tu solucion se puede usar de verdad.
 
 **Escribe un programa para parpadear un LED conectado al pin 13 una vez por segundo.**
 
-- Cuando este lista la conexion (Board.ready), crea una nueva instancia de `Led`.
+- Cuando este lista la conexion (`board.on('ready')`), crea una nueva instancia de `Led`.
 - Pasale un numero al constructor del `Led` para decirle a que pin esta conectado.
 - `Led` tiene un metodo `strobe(ms)`; que toma el intervalo en millisegundos.
 
