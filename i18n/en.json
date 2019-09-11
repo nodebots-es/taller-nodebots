@@ -4,7 +4,6 @@
   "exercise": {
     "blink_blink": "Blink Blink",
     "servo_wave": "Servo Wave",
-    "spin_motor_spin": "Spin Motor Spin",
     "light_switch": "Light Switch",
     "street_lamp": "Street Lamp",
     "ping_bell": "Ping Bell",
@@ -169,34 +168,6 @@
         "servo_wait": "servo did not wait for expected time",
         "servo_stop_before_return_to_center": "servo did not stop before returning to center",
         "servo_returned_to_center": "servo did not return to center"
-      }
-    },
-    "spin_motor_spin": {
-      "pass": {
-        "motor_start_called": "motor.start was called",
-        "motor_stop_called": "motor.stop was called",
-        "motor_continually_start_and_stop": "motor continually starts and stops",
-        "motor_started_before_stopped": "motor was started before it was stopped",
-        "motor_start_speed": "motor started at {{speed}}",
-        "board_waited_before_stopping": "Used board.wait to wait {{seconds}} seconds before stopping the motor",
-        "motor_stop_after_seconds": "motor stopped after {{seconds}} seconds",
-        "board_waited_after_stopping": "Used board.wait to wait after stopping the motor",
-        "board_waited_before_starting_again": "Used board.wait to wait {{seconds}} second before starting the motor again",
-        "motor_started_again": "motor started again after {{seconds}} second",
-        "motor_start_again_speed": "motor started again at {{speed}}"
-      },
-      "fail": {
-        "motor_start_called": "motor.start was not called",
-        "motor_stop_called": "motor.stop was not called",
-        "motor_continually_start_and_stop": "motor doesn't continually start and stop",
-        "motor_started_before_stopped": "motor was not started before it was stopped!",
-        "motor_start_speed": "motor not started at {{speed}}",
-        "board_waited_before_stopping": "Didn't use board.wait to wait {{seconds}} seconds before stopping the motor",
-        "motor_stop_after_seconds": "motor didn't stop after {{seconds}} seconds",
-        "board_waited_after_stopping": "Didn't use board.wait to wait after stopping the motor",
-        "board_waited_before_starting_again": "Didn't use board.wait to wait {{seconds}} second before starting the motor again",
-        "motor_started_again": "motor didn't start again after {{seconds}} second",
-        "motor_start_again_speed": "motor not started again at {{speed}}"
       }
     },
     "street_lamp": {

@@ -9,7 +9,7 @@
     "lint": "jshint exercises tests stubs *.js"
   },
   "bin": {
-    "nodebot-workshop": "./nodebot-workshop.js"
+    "taller-nodebots": "./nodebot-workshop.js"
   },
   "repository": {
     "type": "git",

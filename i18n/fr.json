@@ -4,7 +4,6 @@
   "exercise":{
     "blink_blink":"Clignote",
     "servo_wave":"La hola du Servo",
-    "spin_motor_spin":"Tourne Moteur Tourne",
     "light_switch":"L'Interupteur",
     "street_lamp":"Le Lampadaire",
     "ping_bell":"Sonnette de Velo",
@@ -169,34 +168,6 @@
         "servo_wait":"le servomoteur n'a pas attendu le délais prévu",
         "servo_stop_before_return_to_center":"le servomoteur ne s'est pas arrêté avant de revenir a sa position centrale",
         "servo_returned_to_center":"le servomoteur n'est pas revenu a sa position centrale"
-      }
-    },
-    "spin_motor_spin":{
-      "pass":{
-        "motor_start_called":"'motor.start' a été appelé",
-        "motor_stop_called":"'motor.stop' a été appelé",
-        "motor_continually_start_and_stop":"le moteur s'allume et s'éteint continuellement",
-        "motor_started_before_stopped":"le moteur a été mis en marche avant de s'arrêter",
-        "motor_start_speed":"le moteur a démarré à {{speed}}",
-        "board_waited_before_stopping":"'board.wait' a été utilisé pour attendre {{seconds}} secondes avant d'arrêter le moteur",
-        "motor_stop_after_seconds":"moteur s'est arrêté après {{seconds}} secondes",
-        "board_waited_after_stopping":"'board.wait' a été utilisé pour attendre après l'arrêt du moteur",
-        "board_waited_before_starting_again":"'board.wait' a été utilisé pour attendre {{seconds}} secondes avant re démarer le moteur",
-        "motor_started_again":"le moteur à re démarrer après {{seconds}}",
-        "motor_start_again_speed":"le moteur à re démarrer a une vitesse de {{speed}}"
-      },
-      "fail":{
-        "motor_start_called":"'motor.start' n'a pas été appelé",
-        "motor_stop_called":"'motor.stop' n'a pas été appelé",
-        "motor_continually_start_and_stop":"le moteur ne s'allume et ne s'éteint pas continuellement",
-        "motor_started_before_stopped":"le moteur n'a pas été mis en marche avant de s'arrêter!",
-        "motor_start_speed":"le moteur n'a pas démarré à {{speed}}",
-        "board_waited_before_stopping":"'board.wait' n'a pas été utilisé pour attendre {{seconds}} secondes avant re démarer le moteur",
-        "motor_stop_after_seconds":"moteur ne s'est pas arrêté après {{seconds}} secondes",
-        "board_waited_after_stopping":"'board.wait' n'a pas été utilisé pour attendre après l'arrêt du moteur",
-        "board_waited_before_starting_again":"'board.wait' n'a pas été utilisé pour attendre {{seconds}} secondes avant re démarer le moteur",
-        "motor_started_again":"le moteur n'a pas re démarrer après {{seconds}}",
-        "motor_start_again_speed":"le moteur n'a pas re démarré à {{speed}}"
       }
     },
     "street_lamp":{
