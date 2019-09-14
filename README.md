@@ -13,7 +13,7 @@ npm install -g taller-nodebots
 taller-nodebots
 ```
 
-<img src="https://raw.githubusercontent.com/tableflip/nodebot-workshop/master/screenshot.png" width="560" alt="Nodebot workshop menu">
+![screenshot.png](screenshot.png)
 
 Una serie de desafíos de código le enseñará los conceptos básicos de la api [johnny-five][2], un marco para trabajar con Arduino y otras placas de creación rápida de prototipos.
 
