@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tableflip/nodebot-workshop"
+    "url": "https://github.com/nodebotsES/taller-nodebots"
   },
   "keywords": [
     "nodeschool",
@@ -34,7 +34,7 @@
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/tableflip/nodebot-workshop/issues"
+    "url": "https://github.com/nodebotsES/taller-nodebots/issues"
   },
   "dependencies": {
     "async": "^2.6.0",
