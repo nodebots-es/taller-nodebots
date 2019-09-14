@@ -15,51 +15,51 @@ taller-nodebots
 
 <img src="https://raw.githubusercontent.com/tableflip/nodebot-workshop/master/screenshot.png" width="560" alt="Nodebot workshop menu">
 
-A series of code challenges will teach you the basics of the [johnny-five][2] api, a framework for working with Arduino and other rapid prototyping boards.
+Una serie de desafíos de código le enseñará los conceptos básicos de la api [johnny-five][2], un marco para trabajar con Arduino y otras placas de creación rápida de prototipos.
 
-## Hardware is optional
+## El hardware es opcional
 
-The workshop will pose a challenge, you will code a solution which the workshop will then verify.
+El taller planteará un desafío, usted codificará una solución que el taller luego verifica.
 
-**You will be writing _working, executable johnny-five code_.**
+** Estarás escribiendo _codigo ejectuable de johnny-five code _. **
 
-Each of your solutions can be run by the workshop or directly as a `node` program.
+Cada una de sus soluciones puede ser ejecutada por el taller o directamente como un programa 'node'.
 
-When run through the workshop the low level code to talk to the Arduino is stubbed out.
+Cuando se ejecuta en el taller, el código de bajo nivel para hablar con el Arduino se apaga.
 
-Wire up an Arduino, connect the USB and run your solution directly to see it run for real.
+Conecte un Arduino, conecte el USB y ejecute su solución directamente para ver que se ejecute de verdad.
 
-## Contributing
+## Contribuyendo
 
-### Code style
+### Estilo de código
 
-To move towards a consistent style for nodeschool projects we use the .jshintrc
-as defined in learnyounode: https://github.com/rvagg/learnyounode/blob/master/.jshintrc
+Para avanzar hacia un estilo consistente para proyectos de nodos escolares, usamos .jshintrc
+como se define en learnyounode: https://github.com/rvagg/learnyounode/blob/master/.jshintrc
 
-### Building
+### Pruebas y Commits
 
-npm scripts are present for testing and linting:
+Los scripts npm están presentes para tests y linting:
 
 ```
 $ npm run test
 $ npm run lint
 ```
 
-A `pre-commit` hook will be installed in your repo clone to run the test/lint scripts with every commit.
+Un `pre-commit` hook va instalado para ejecutar los tests y linting con cada commit.
 
-## Thanks
+## Gracias al Equipo
 
 - @rvagg - and the [nodeschool.io][1] team
 - @rwaldron and the [johnny-five team](https://github.com/rwaldron/johnny-five/graphs/contributors)
 - @voodootikigod and the [nodebots team](http://nodebots.io/core.html)
 - @AnnaGerber of [node-ardx.org](http://node-ardx.org/)
 
-## Translations
+## Traduciones
 
 - @gorhgorh - French
-- @n0bisuke - Japanese
+- @sdesalas - Espanol
 
 [1]: http://nodeschool.io/
 [2]: https://github.com/rwaldron/johnny-five
 
-Brought to you by [@NodeBotsUK](https://twitter.com/NodeBotsUK)
+Brought to you by [@NodeBotsES](https://twitter.com/NodeBotsES)
