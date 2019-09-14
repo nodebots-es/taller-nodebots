@@ -1,4 +1,4 @@
-__Haz que servomotor the salude durante 3 segundos, se detenga y regresa al centro .__
+__Haz que servomotor salude durante 3 segundos, se detenga y regresa al centro .__
 
 - Crear una nueva instancia de `Servo` en al pin ** 9 **
 - Usa `servo.sweep` para rotar entre 0˚ y 180˚
