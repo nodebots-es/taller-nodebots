@@ -29,7 +29,7 @@ Cuando se ejecuta en el taller, el código de bajo nivel para hablar con el Ardu
 
 Conecte un Arduino, conecte el USB y ejecute su solución directamente para ver que se ejecute de verdad.
 
-## Contribuyendo
+## Como contribuir
 
 ### Estilo de código
 
